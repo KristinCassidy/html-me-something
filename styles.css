@@ -1,3 +1,8 @@
-p {
-  border-block: 1px;
+selector {
+  background-color: yellow;
+  text-align: center;
+  
+  .center-heading {
+    text-align: center;
+  }
 }
