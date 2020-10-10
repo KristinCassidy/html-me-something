@@ -12,13 +12,7 @@ p{
   color:gray;
 }
 
-p.p1 {
-  margin: 200.0px 50.0px 50.0px 50.0px;
-  font-size: 36.0px;
-  color: black;
-}
-
-p.p2 {
+.p1 {
   margin:100px;
   font-size: 10px;
   color: gray;
