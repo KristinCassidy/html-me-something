@@ -66,3 +66,7 @@ td {
   margin-right:60px;
 }
 
+#blueBorder3 {
+  border:2px solid rgb(26, 255, 255);
+  margin-left:50px; 
+  margin-right:300px;
