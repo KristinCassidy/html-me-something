@@ -43,6 +43,8 @@ table {
   border: 1px solid white;
   padding: 10px;
   margin: 40px;
+  cellpadding: 5px;
+  cellspacing: 5px;
 }
 
 tr {
