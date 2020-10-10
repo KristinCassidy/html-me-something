@@ -36,6 +36,7 @@ h2 {
 
 footer {
   text-align: right;
+  padding-right: 25px;
 }
 .blue-border {
   border:2px solid rgb(26, 255, 255);
