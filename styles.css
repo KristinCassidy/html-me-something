@@ -38,7 +38,9 @@ footer {
   text-align: right;
   padding-right: 25px;
 }
-.blue-border {
+#blueBorder {
   border:2px solid rgb(26, 255, 255);
+  margin-left:30px; 
+  margin-right:60px;
 }
 
