@@ -9,7 +9,7 @@ img {
 }
 
 p{
-  color:gray
+  color:gray;
 }
 
 p.p1 {
@@ -20,7 +20,7 @@ p.p1 {
 
 article {
   margin: 100px;
-  font-size: 16.0px
+  font-size: 16.0px;
 }
 
 h1 {
@@ -49,6 +49,7 @@ table {
 
 th {
   border: 1px solid white;
+  padding: 2px;
 }
 
 tbody {
@@ -58,10 +59,12 @@ tbody {
 
 tr {
   border: 1px solid white;
+  padding: 2px;
 }
 
 td {
   border: 1px solid white;
+  padding: 2px;
 }
 
 #blueBorder1 {
