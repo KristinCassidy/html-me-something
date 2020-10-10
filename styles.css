@@ -43,9 +43,12 @@ table {
   padding: 10px;
   margin: 40px;
 }
+tr {
+  border: 1px solid white;
+}
 
 td {
-  border 1px solid white;
+  border: 1px solid white;
 }
 
 #blueBorder1 {
