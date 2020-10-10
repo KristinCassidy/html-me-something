@@ -18,6 +18,11 @@ p.p1 {
   color: black;
 }
 
+p.p2 {
+  margin:100px;
+  font-size: 10px
+}
+
 article {
   margin: 100px;
   font-size: 16.0px;
