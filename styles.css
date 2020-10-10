@@ -49,16 +49,10 @@ table {
 
 th {
   border: 1px solid white;
-  padding: 2px;
-}
-
-tbody {
-  border: 1px solid white;
-  padding: 3px;
+  padding: 10px;
 }
 
 tr {
-  border: 1px solid white;
   padding: 2px;
 }
 
