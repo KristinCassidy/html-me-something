@@ -14,23 +14,23 @@ p{
 
 .p1 {
   margin:100px;
-  font-size: 10px;
+  font-size: 10;
   color: gray;
 }
 
 article {
   margin: 100px;
-  font-size: 16.0px;
+  font-size: 16.0;
 }
 
 h1 {
   margin: 76.0px 50.0px 50.0px 50.0px;
-  font-size: 38.0px;
+  font-size: 38.0;
   color: gray;
 }
 
 h2 {
-  font-size: 22.0px;
+  font-size: 22.0;
   margin-left: 60.0px;
 }
 
