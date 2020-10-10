@@ -46,6 +46,9 @@ table {
   cellpadding: 5px;
   cellspacing: 5px;
 }
+th {
+  border: 1px solid white;
+}
 
 tbody {
   border: 1px solid white;
