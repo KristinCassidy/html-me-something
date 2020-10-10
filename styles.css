@@ -41,6 +41,7 @@ footer {
 }
 table {
   border: 1px solid white;
+  padding: 40px;
 }
 
 #blueBorder1 {
