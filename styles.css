@@ -32,6 +32,11 @@ h1 {
 h2 {
   font-size: 22.0;
   margin-left: 60.0px;
+}
+
+h3 {
+  font-size: 22.0;
+  margin-left: 60.0px;
   color:gray;
 }
 
@@ -92,6 +97,12 @@ ol {
   border-radius: 3 px;
   padding: 0px 20px 12px 20px;
   color: white;
+}
+
+.bottom-nav {
+  display: inline;
+  text-decoration: none;
+  
 }
 
 #photo1 {
