@@ -77,5 +77,6 @@ td {
   border: 2px solid black;
   height: 40px;
   width: 80px;
-  align: center;
+  text-align: center;
+  background-color: #555555;
 }
