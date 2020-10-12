@@ -102,6 +102,8 @@ ol {
 #bottom-nav-table {
   align-items: center;
   border: 0px;
+  padding: 10px;
+  margin: 0.0px 40px 40px 40px;
 }
 
 #photo1 {
