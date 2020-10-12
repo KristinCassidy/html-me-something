@@ -75,4 +75,6 @@ td {
 .button {
   display: block;
   border: 2px solid black;
+  height: 20px;
+  width: 40px;
 }
