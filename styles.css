@@ -74,12 +74,12 @@ td {
 
 .button {
   display: block;
-  border: 2px solid black;
+  border: 2px solid gray;
   height: 40px;
   width: 80px;
   text-align: center;
   background-color: #555555;
   border-radius: 5 px;
-  padding: 0px 20px 10px 20px;
+  padding: 0px 20px 12px 20px;
   color: white;
 }
