@@ -32,6 +32,7 @@ h1 {
 h2 {
   font-size: 22.0;
   margin-left: 60.0px;
+  color:gray;
 }
 
 footer {
@@ -84,7 +85,7 @@ ol {
 
 .button {
   display: block;
-  border: 2px solid #4DF564;
+  border: 1px solid #4DF564;
   height: 40px;
   width: 80px;
   text-align: center;
@@ -98,3 +99,33 @@ ol {
   width:450px; 
   margin:25px 40px 45px 125px;
 }  
+
+#photo2 {
+  float:left; 
+  width:400px; 
+  margin:0px 80px 50px 80px;
+}
+
+#photo3 {
+  float:right; 
+  width:400px; 
+  margin:100px;
+}
+
+#photo4{
+  float:left; 
+  width:400px; 
+  margin:50px 80px 50px 80px;
+}
+
+#photo5{
+  float:right; 
+  width:400px; 
+  margin:100px;
+}
+
+#photo6{
+  float:center;
+  width:650px;
+  margin:100px;
+}
