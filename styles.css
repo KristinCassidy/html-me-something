@@ -97,12 +97,11 @@ ol {
   border-radius: 3 px;
   padding: 0px 20px 12px 20px;
   color: white;
+  text-decoration: none;
 }
 
 .bottom-nav {
-  display: inline;
-  text-decoration: none;
-  
+  display: inline;    
 }
 
 #photo1 {
