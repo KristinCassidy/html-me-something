@@ -72,6 +72,10 @@ td {
   margin-right:300px;
 }
 
+.no-border-section {
+  margin: 100;
+}
+
 .button {
   display: block;
   border: 2px solid #4DF564;
