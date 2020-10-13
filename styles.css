@@ -14,7 +14,7 @@ footer {
 }
 
 #button {
-  display: block;
+  display: inline;
   border: 1px solid #4DF564;
   height: 40px;
   width: 80px;
