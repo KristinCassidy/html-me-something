@@ -4,10 +4,6 @@ body{
   margin: 25.0px;
 }
 
-img {
-  width: 100%;
-}
-
 p{
   color:gray;
 }
@@ -44,6 +40,7 @@ footer {
   padding-right: 80px;
 }
 
+<!--Tables-->
 table {
   border: 1px solid white;
   padding: 10px;
@@ -65,6 +62,8 @@ ol {
   margin-right:20px;
   margin-bottom:50px;
 }
+
+<!--Sections-->
 #blueBorder1 {
   border:2px solid rgb(26, 255, 255);
   margin:0px 30px 0px 60px; 
@@ -99,9 +98,14 @@ ol {
 }
 
 #bottom-nav-table {
-  align-items: center;
+  display: inline;
   border: 0;
   margin: 40px 40px 40px 40px;
+}
+
+<!--images-->
+img {
+  width: 100%;
 }
 
 #photo1 {
