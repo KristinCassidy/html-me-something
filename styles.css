@@ -1,7 +1,7 @@
 body{
   background-color: rgb(240, 240, 240);
   font-family: courier new;
-  margin: 25.0px
+  margin: 25.0px;
 }
 
 img {
@@ -60,6 +60,11 @@ td {
   padding: 10px 25px 10px 25px;
 }
 
+ol {
+  margin-left:150px;
+  margin-right:20px;
+  margin-bottom:50px;
+}
 #blueBorder1 {
   border:2px solid rgb(26, 255, 255);
   margin:0px 30px 0px 60px; 
@@ -75,12 +80,6 @@ td {
   border:2px solid rgb(26, 255, 255);
   margin-left:50px; 
   margin-right:300px;
-}
-
-ol {
-  margin-left:150px;
-  margin-right:20px;
-  margin-bottom:50px;
 }
 
 .no-border-section {
@@ -138,5 +137,5 @@ ol {
 #photo6{
   width:650px;
   padding:100px;
-  align-items:center;
+  align:center;
 }
