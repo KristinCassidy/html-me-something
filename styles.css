@@ -136,8 +136,7 @@ ol {
 }
 
 #photo6{
-  
   width:650px;
-  margin:100px;
-  align-items: stretch center;
+  padding:100px;
+  align-items:center;
 }
