@@ -27,7 +27,6 @@ footer {
   margin: 40px;
 }
 
-<!--Text-->
 p{
   color:gray;
 }
@@ -60,8 +59,6 @@ h3 {
   color:gray;
 }
 
-<!--Tables-->
-
 table {
   border: 1px solid white;
   padding: 50px;
@@ -84,7 +81,6 @@ ol {
   margin-bottom: 50px;
 }
 
-<!--Sections-->
 #blueBorder1 {
   border:2px solid rgb(26, 255, 255);
   margin:0px 30px 0px 60px; 
@@ -106,7 +102,6 @@ ol {
   margin: 100;
 }
 
-<!--images-->
 img {
   width: 100%;
 }
