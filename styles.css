@@ -13,6 +13,18 @@ footer {
   padding-right: 80px;
 }
 
+#button {
+  display: block;
+  border: 1px solid #4DF564;
+  height: 40px;
+  width: 80px;
+  text-align: center;
+  border-radius: 3 px;
+  padding: 12px 20px 12px 20px;
+  color: gray;
+  text-decoration: none;
+}
+
 <!--Text-->
 p{
   color:gray;
@@ -84,24 +96,6 @@ ol {
 
 .no-border-section {
   margin: 100;
-}
-
-#button {
-  display: block;
-  border: 1px solid #4DF564;
-  height: 40px;
-  width: 80px;
-  text-align: center;
-  border-radius: 3 px;
-  padding: 12px 20px 12px 20px;
-  color: gray;
-  text-decoration: none;
-}
-
-#bottom-nav-table {
-  display: inline;
-  border: 0;
-  margin: 40px 40px 40px 40px;
 }
 
 <!--images-->
