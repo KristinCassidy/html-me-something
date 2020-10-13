@@ -33,10 +33,13 @@ p{
 }
 
 .p1 {
-  margin:100px;
+  margin: 100px;
   font-size: 10;
   color: gray;
 }
+
+.p2 {
+  margin: 100px;
 
 h1 {
   margin: 76.0px 50.0px 50.0px 50.0px;
@@ -73,9 +76,9 @@ td {
 }
 
 ol {
-  margin-left:150px;
-  margin-right:20px;
-  margin-bottom:50px;
+  margin-left: 150px;
+  margin-right: 20px;
+  margin-bottom: 50px;
 }
 
 <!--Sections-->
@@ -85,15 +88,15 @@ ol {
 }
 
 #blueBorder2 {
-  border:2px solid rgb(26, 255, 255);
-  margin-left:350px; 
-  margin-right:60px;
+  border: 2px solid rgb(26, 255, 255);
+  margin-left: 350px; 
+  margin-right: 60px;
 }
 
 #blueBorder3 {
-  border:2px solid rgb(26, 255, 255);
-  margin-left:50px; 
-  margin-right:300px;
+  border: 2px solid rgb(26, 255, 255);
+  margin-left: 50px; 
+  margin-right: 300px;
 }
 
 .no-border-section {
@@ -106,37 +109,37 @@ img {
 }
 
 #photo1 {
-  float:right; 
-  width:450px; 
-  margin:25px 40px 45px 125px;
+  float: right; 
+  width: 450px; 
+  margin: 25px 40px 45px 125px;
 }  
 
 #photo2 {
-  float:left; 
-  width:400px; 
-  margin:0px 80px 50px 80px;
+  float: left; 
+  width: 400px; 
+  margin: 0px 80px 50px 80px;
 }
 
 #photo3 {
-  float:right; 
-  width:400px; 
-  margin:100px;
+  float: right; 
+  width: 400px; 
+  margin: 100px;
 }
 
-#photo4{
-  float:left; 
-  width:400px; 
-  margin:50px 80px 50px 80px;
+#photo4 {
+  float: left; 
+  width: 400px; 
+  margin: 50px 80px 50px 80px;
 }
 
-#photo5{
-  float:right; 
-  width:400px; 
-  margin:100px;
+#photo5 {
+  float: right; 
+  width: 400px; 
+  margin: 100px;
 }
 
-#photo6{
-  width:650px;
-  padding:100px;
+#photo6 {
+  width: 650px;
+  padding: 100px;
   justify-content:center;
 }
