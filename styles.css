@@ -95,14 +95,14 @@ ol {
   text-align: center;
   border-radius: 3 px;
   padding: 0px 20px 12px 20px;
-  color: white;
+  color: gray;
   text-decoration: none;
 }
 
 #bottom-nav-table {
   align-items: center;
   border: 0;
-  margin: 0.0px 40px 40px 40px;
+  margin: 40px 40px 40px 40px;
 }
 
 #photo1 {
